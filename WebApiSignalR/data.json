@@ -1,0 +1,16 @@
+﻿{
+  "cars": [
+    {
+      "Name": "Toyota Camry",
+      "Price": 24000
+    },
+    {
+      "Name": "Honda Civic",
+      "Price": 22000
+    },
+    {
+      "Name": "Ford Mustang",
+      "Price": 35000
+    }
+  ]
+}
